@@ -71,9 +71,4 @@ Pull requests are welcome. 🚀
 
 ---
 
-## 📬 Contact
 
-**Author:** Ramdas Naik  
-
-
----
